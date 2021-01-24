@@ -1,1 +1,0 @@
-https://zoom.us/j/7789953397?pwd=WFVvc1JZUU1NS0ZwRDByR1hVYWtWZz09
