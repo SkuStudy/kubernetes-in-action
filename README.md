@@ -1,6 +1,8 @@
 # kubernetes-in-action
 쿠버네티스 인 액션 스터디
 
+[스터디 정리 위키](https://github.com/SkuStudy/kubernetes-in-action/wiki)
+
 # 스터디 운영
 
 ## Goal
